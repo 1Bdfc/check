@@ -1,0 +1,442 @@
+[
+  {
+    "texto": "Qual o nome da capital do Brasil?",
+    "alternativas": [
+      "a) Brasilia",
+      "b) São Paulo",
+      "c) Rio de Janeiro",
+      "d) Belo Horizonte"
+    ],
+    "correta": "a",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "A Copa do Mundo de Futebol é realizada a cada quatro anos, a última edição foi realizada em 2022, sendo assim quando será a próxima?",
+    "alternativas": [
+      "a) 2026",
+      "b) 2028",
+      "c) 2030",
+      "d) 2032"
+    ],
+    "correta": "a",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Qual desses times foi o campeão da Copa do Brasil em 2023?",
+    "alternativas": [
+      "a) São Paulo",
+      "b) Flamengo",
+      "c) Palmeiras",
+      "d) Santos"
+    ],
+    "correta": "a",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Quem foi o criador do universo Star Wars?",
+    "alternativas": [
+      "a) George Lucas",
+      "b) Mestre Yoda",
+      "c) Steven Spielberg",
+      "d) Tarantino"
+    ],
+    "correta": "a",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Quanto tempo dura o \"Blip\" que apaga metade da população com o estalar dos dedos de Thanos em os Vingadores da Marvel?",
+    "alternativas": [
+      "a) 5 anos",
+      "b) 10 anos",
+      "c) 2 anos",
+      "d) 3 anos"
+    ],
+    "correta": "a",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Qual desses animais não é uma ave?",
+    "alternativas": [
+      "a) Lontra",
+      "b) Maritaca",
+      "c) Papagaio",
+      "d) Corvo"
+    ],
+    "correta": "a",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Em que ano foi promulgada a constituição Federal do Brasil?",
+    "alternativas": [
+      "a) 1988",
+      "b) 1998",
+      "c) 1950",
+      "d) 2024"
+    ],
+    "correta": "a",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Qual linguagem de programação é mais conhecida por seu uso na web para criar páginas dinâmicas?",
+    "alternativas": [
+      "a) JavaScript",
+      "b) C++",
+      "c) Python",
+      "d) Web"
+    ],
+    "correta": "a",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Qual o nome do coelho de pelúcia da Mônica?",
+    "alternativas": [
+      "a) Sansão",
+      "b) Rabitt",
+      "c) Pooh",
+      "d) Tigrão"
+    ],
+    "correta": "a",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Quem era o Deus Supremo na mitologia Grega?",
+    "alternativas": [
+      "a) Zeus",
+      "b) Mercúrio",
+      "c) Apolo",
+      "d) Netuno"
+    ],
+    "correta": "a",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Qual o documento que comprova que alguém é formado?",
+    "alternativas": [
+      "a) Alvará",
+      "b) Decreto",
+      "c) Diploma",
+      "d) Escritura"
+    ],
+    "correta": "c",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Quais capitais do Brasil têm o mesmo nome do estado?",
+    "alternativas": [
+      "a) Aracaju e Palmas",
+      "b) Boa Vista e São Luis",
+      "c) Campo Grande e Belo Horizonte",
+      "d) São Paulo e Rio de Janeiro"
+    ],
+    "correta": "d",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Qual a fruta preferida da Magali?",
+    "alternativas": [
+      "a) Maçã",
+      "b) Melão",
+      "c) Banana",
+      "d) Melancia"
+    ],
+    "correta": "d",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Qual desses animais não vive em regiões geladas?",
+    "alternativas": [
+      "a) Pinguim",
+      "b) Leão Marinho",
+      "c) Morsa",
+      "d) Elefante"
+    ],
+    "correta": "d",
+    "dificuldade": "facil"
+  },
+  {
+    "texto": "Quem foi o criador da linguagem de programação Python?",
+    "alternativas": [
+      "a) Bil Gates",
+      "b) Steve Jobs",
+      "c) Guido van Rossum",
+      "d) Linus Torvalds"
+    ],
+    "correta": "c",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Qual o país com maior área territorial do mundo?",
+    "alternativas": [
+      "a) EUA",
+      "b) Russia",
+      "c) Brasil",
+      "d) Austrália"
+    ],
+    "correta": "b",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Qual o nome da capital da França?",
+    "alternativas": [
+      "a) Berlim",
+      "b) Paris",
+      "c) Madri",
+      "d) Lisboa"
+    ],
+    "correta": "b",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Qual o apelido qua a Skatista Rayssa Leal recebeu aos sete anos de idade, após um vídeo dela viralizar na internet?",
+    "alternativas": [
+      "a) Fofinha",
+      "b) Fadinha",
+      "c) Princesa do Skate",
+      "d) Rainha"
+    ],
+    "correta": "b",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Em que ano foi lançado o Show do Milhão?",
+    "alternativas": [
+      "a) 1975",
+      "b) 1999",
+      "c) 2009",
+      "d) 2021"
+    ],
+    "correta": "b",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Qual é a identidade secreta do Batman?",
+    "alternativas": [
+      "a) Clark Kent",
+      "b) Bruce Wayne",
+      "c) Steve Rogers",
+      "d) Tony Stark"
+    ],
+    "correta": "b",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Nos Desenhos animados, como se chama o cachorro medroso do Salsicha?",
+    "alternativas": [
+      "a) Floquinho",
+      "b) Scooby Doo",
+      "c) Sansão",
+      "d) Rex"
+    ],
+    "correta": "b",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Qual cartunista criou o menino maluquinho?",
+    "alternativas": [
+      "a) Laerte",
+      "b) Ziraldo",
+      "c) Henfil",
+      "d) Mauricio de Souza"
+    ],
+    "correta": "b",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Como chamamos a manifestação de reprovação do público frente a um espetáculo?",
+    "alternativas": [
+      "a) Bis",
+      "b) Vaia",
+      "c) Palmas",
+      "d) Aplauso"
+    ],
+    "correta": "b",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Qual desses dispositivos é usado para conectar um computador à internet?",
+    "alternativas": [
+      "a) Impressora",
+      "b) Roteador",
+      "c) Scanner",
+      "d) Teclado"
+    ],
+    "correta": "b",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Bebida típica do Rio Grande do Sul:",
+    "alternativas": [
+      "a) Cerveja",
+      "b) Chimarrão",
+      "c) Refrigerante",
+      "d) Chá"
+    ],
+    "correta": "b",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Qual o país com a maior população do mundo?",
+    "alternativas": [
+      "a) China",
+      "b) Itália",
+      "c) India",
+      "d) Japão"
+    ],
+    "correta": "c",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Quantas unidades federativas o Brasil tem (estados e distrito federal)?",
+    "alternativas": [
+      "a) 30",
+      "b) 18",
+      "c) 26",
+      "d) 27"
+    ],
+    "correta": "d",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Qual era a capital da Roma antiga?",
+    "alternativas": [
+      "a) Nova York",
+      "b) Lisboa",
+      "c) Londres",
+      "d) Constantinopla"
+    ],
+    "correta": "d",
+    "dificuldade": "medio"
+  },
+  {
+    "texto": "Qual desses países não faz parte da América do Sul?",
+    "alternativas": [
+      "a) Brasil",
+      "b) Argentina",
+      "c) México",
+      "d) Equador"
+    ],
+    "correta": "c",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Qual desses times foi o Campeão da NBA no ano de 2024?",
+    "alternativas": [
+      "a) Denver Nuggets",
+      "b) Golden State Warriors",
+      "c) Boston Celtics",
+      "d) Milwaukee Bucks"
+    ],
+    "correta": "c",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Em que ano foi fundada a Sociedade Esportiva Palmeiras?",
+    "alternativas": [
+      "a) 1910",
+      "b) 1924",
+      "c) 1914",
+      "d) 1904"
+    ],
+    "correta": "c",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Qual o nome do filme brasileiro que ganhou o Oscar de melhor filme internacional?",
+    "alternativas": [
+      "a) Cidade de Deus",
+      "b) Central do Brasil",
+      "c) Ainda estou aqui",
+      "d) O Auto da compadecida"
+    ],
+    "correta": "c",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Qual o nome da série do universo Star Wars que tem um bebê Yoda?",
+    "alternativas": [
+      "a) Ahsoka",
+      "b) Obi-Wan Kenobi",
+      "c) The Mandalorian",
+      "d) The Book of Boba Fett"
+    ],
+    "correta": "c",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Qual o nome da primeira animação original do Cartoon Network feita no Brasil?",
+    "alternativas": [
+      "a) Padrinhos Mágicos",
+      "b) Meninas Super poderosas",
+      "c) irmão do Jorel",
+      "d) Coragem, o Cão Covarde"
+    ],
+    "correta": "c",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Cantor e compositor brasileiro, Diogo Nogueira ganhou fama nacional ao interpretar qual estilo musical?",
+    "alternativas": [
+      "a) Punk",
+      "b) Death Metal",
+      "c) Samba",
+      "d) Música Clássica"
+    ],
+    "correta": "c",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Onde fica o município de Itaquaquecetuba?",
+    "alternativas": [
+      "a) Rio Grande do Sul",
+      "b) Bahia",
+      "c) Goiás",
+      "d) São Pulo"
+    ],
+    "correta": "d",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Qual a nome da maior medalhista da história do Brasil nos jogos olímpicos?",
+    "alternativas": [
+      "a) Jade Barboda",
+      "b) Simone Biles",
+      "c) Daiane do Santos",
+      "d) Rebeca Andrade"
+    ],
+    "correta": "d",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Qual o nome da trilogia de filmes baseada nos livros de J.R.R.Tolkien?",
+    "alternativas": [
+      "a) Matrix",
+      "b) Vingadores",
+      "c) Homem Aranha",
+      "d) O Senhor dos Anéis"
+    ],
+    "correta": "d",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Qual atriz ficou conhecida por usar um vestido branco em um filme lançado em 1955?",
+    "alternativas": [
+      "a) Katharine Hepburn",
+      "b) Marlene Dietrich",
+      "c) Alice Faye",
+      "d) Marilyn Monroe"
+    ],
+    "correta": "d",
+    "dificuldade": "dificil"
+  },
+  {
+    "texto": "Em que ano a Microsoft lançou a primeira versão do Windows?",
+    "alternativas": [
+      "a) 1980",
+      "b) 1990",
+      "c) 1972",
+      "d) 1985"
+    ],
+    "correta": "d",
+    "dificuldade": "dificil"
+  }
+]
