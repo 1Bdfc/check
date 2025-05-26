@@ -6,14 +6,16 @@ import random
 def carregar_perguntas():
     with open("./perguntas.json", "r", encoding="utf-8") as arq:
         arquivo = json.load(arq)
+    return arquivo
 
 
 
-def selecionar_por_dificuldade(perguntas, nivel):
+def selecionar_por_dificuldade(perguntas, nivel, quantidade):
     perguntas_filtradas = []  # Cria uma lista vazia para guardar as perguntas filtradas
     for questao in perguntas:  # Percorre cada pergunta na lista de perguntas
         if (questao["dificuldade"] == nivel):  # Verifica se a dificuldade da pergunta é igual ao nível desejado
             perguntas_filtradas.append(questao)  # Adiciona a pergunta à lista de perguntas filtradas
+    return perguntas_filtradas
 
 def embaralhar_alternativas(alternativas, letra_correta):
     lista_inicial = []
@@ -134,10 +136,10 @@ def iniciar_jogo():
     perguntas = perguntas_faceis + perguntas_medias + perguntas_dificeis 
 
     pontuacao = 0
-    pulos_restantes = 3
+    pulos_restantes = 15
     usou_cartas = False
 
-    for i in range(len(perguntas)+1): # Laço das perguntas
+    for i in range(len(perguntas)): # Laço das perguntas
         pergunta_atual = perguntas[i]
 
         # Embaralha as alternativas --- função criada anteriormente
@@ -164,7 +166,7 @@ def iniciar_jogo():
         resposta = input("Digite sua resposta (a/b/c/d): ")
 
         if verificar_resposta(resposta, correta): #Verifica se acertou pela função criada anteriormente 
-            premio = controle_pontuacao(i + 1) 
+            premio = controle_pontuacao(i +1) 
             pontuacao += premio
             print(f"Certa resposta! Você acumulou R$ {pontuacao}.")
         else:
@@ -172,11 +174,17 @@ def iniciar_jogo():
              perda = controle_pontuacao(i) // 2
             else:
              perda = 0
-             print("Resposta errada! Você perdeu o jogo.")
-             print(f"Prêmio final: R$ {perda}.")
-             return
+            print("Resposta errada! Você perdeu o jogo.")
+            print(f"Prêmio final: R$ {perda}.")
+            return False, None
             
+    return True, pontuacao
     print(f"\nParabéns! Você venceu o Show do Milhão com o prêmio total de R$ {pontuacao}!")
 
+
+
 if __name__ == "__main__": #Só executa o jogo se esse arquivo for o principal
-    iniciar_jogo()
+    venceu, pontuacao = iniciar_jogo()
+    if venceu:
+        print(f"\nParabéns! Você venceu o Show do Milhão com o prêmio total de R$ {pontuacao}!")
+    
