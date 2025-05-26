@@ -136,7 +136,7 @@ def iniciar_jogo():
     perguntas = perguntas_faceis + perguntas_medias + perguntas_dificeis 
 
     pontuacao = 0
-    pulos_restantes = 15
+    pulos_restantes = 3
     usou_cartas = False
 
     for i in range(len(perguntas)): # Laço das perguntas
